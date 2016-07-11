@@ -1,1 +1,1 @@
-this is
+这是一个关于webpack+vuejs构建项目的基本配置，实现css、html文件的热加载，浏览器自动刷新
